@@ -1,0 +1,9 @@
+#,Browser,Page,Field,isPresent,Value
+01,HtmlUnit,index.php,First Name,true,Vlad
+02,HtmlUnit,index.php,Last Name,true,Emely
+03,HtmlUnit,index.php,Email,true,vladimir.hfs@gmail.com
+04,HtmlUnit,index.php,Phone,true,4156970000
+05,HtmlUnit,confirmation.php,First Name,true,Vlad
+06,HtmlUnit,confirmation.php,Last Name,true,Emely
+07,HtmlUnit,confirmation.php,Email,true,vladimir.hfs@gmail.com
+08,HtmlUnit,confirmation.php,Phone,true,4156970000
